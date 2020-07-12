@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Rty.ogg-5490a95295de61152844fa41d5483ebc.oggstr"
+
+[deps]
+
+source_file="res://assets/Rty.ogg"
+dest_files=[ "res://.import/Rty.ogg-5490a95295de61152844fa41d5483ebc.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
